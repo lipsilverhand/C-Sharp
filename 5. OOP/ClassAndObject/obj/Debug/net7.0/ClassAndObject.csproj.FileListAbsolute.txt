@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\bin\Debug\net7.0\ClassAndObject.exe
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\bin\Debug\net7.0\ClassAndObject.deps.json
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\bin\Debug\net7.0\ClassAndObject.runtimeconfig.json
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\bin\Debug\net7.0\ClassAndObject.dll
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\bin\Debug\net7.0\ClassAndObject.pdb
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\obj\Debug\net7.0\ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\obj\Debug\net7.0\ClassAndObject.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\obj\Debug\net7.0\ClassAndObject.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\obj\Debug\net7.0\ClassAndObject.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\obj\Debug\net7.0\ClassAndObject.dll
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\obj\Debug\net7.0\refint\ClassAndObject.dll
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\obj\Debug\net7.0\ClassAndObject.pdb
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\obj\Debug\net7.0\ClassAndObject.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\5. OOP\ClassAndObject\obj\Debug\net7.0\ref\ClassAndObject.dll
