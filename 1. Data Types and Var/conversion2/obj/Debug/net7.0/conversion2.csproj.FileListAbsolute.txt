@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\obj\Debug\net7.0\conversion2.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\obj\Debug\net7.0\conversion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\obj\Debug\net7.0\conversion2.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\obj\Debug\net7.0\conversion2.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\obj\Debug\net7.0\conversion2.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\bin\Debug\net7.0\conversion2.exe
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\bin\Debug\net7.0\conversion2.deps.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\bin\Debug\net7.0\conversion2.runtimeconfig.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\bin\Debug\net7.0\conversion2.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\bin\Debug\net7.0\conversion2.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\obj\Debug\net7.0\conversion2.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\obj\Debug\net7.0\refint\conversion2.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\obj\Debug\net7.0\conversion2.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\obj\Debug\net7.0\conversion2.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\conversion2\obj\Debug\net7.0\ref\conversion2.dll

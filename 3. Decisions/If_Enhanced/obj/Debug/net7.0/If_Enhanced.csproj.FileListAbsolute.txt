@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\bin\Debug\net7.0\If_Enhanced.exe
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\bin\Debug\net7.0\If_Enhanced.deps.json
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\bin\Debug\net7.0\If_Enhanced.runtimeconfig.json
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\bin\Debug\net7.0\If_Enhanced.dll
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\bin\Debug\net7.0\If_Enhanced.pdb
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\obj\Debug\net7.0\If_Enhanced.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\obj\Debug\net7.0\If_Enhanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\obj\Debug\net7.0\If_Enhanced.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\obj\Debug\net7.0\If_Enhanced.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\obj\Debug\net7.0\If_Enhanced.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\obj\Debug\net7.0\If_Enhanced.dll
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\obj\Debug\net7.0\refint\If_Enhanced.dll
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\obj\Debug\net7.0\If_Enhanced.pdb
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\obj\Debug\net7.0\If_Enhanced.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\3. Decisions\If_Enhanced\obj\Debug\net7.0\ref\If_Enhanced.dll

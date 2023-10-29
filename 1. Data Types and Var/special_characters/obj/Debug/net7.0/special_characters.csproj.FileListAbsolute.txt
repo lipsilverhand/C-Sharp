@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\bin\Debug\net7.0\special_characters.exe
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\bin\Debug\net7.0\special_characters.deps.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\bin\Debug\net7.0\special_characters.runtimeconfig.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\bin\Debug\net7.0\special_characters.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\bin\Debug\net7.0\special_characters.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\obj\Debug\net7.0\special_characters.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\obj\Debug\net7.0\special_characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\obj\Debug\net7.0\special_characters.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\obj\Debug\net7.0\special_characters.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\obj\Debug\net7.0\special_characters.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\obj\Debug\net7.0\special_characters.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\obj\Debug\net7.0\refint\special_characters.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\obj\Debug\net7.0\special_characters.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\obj\Debug\net7.0\special_characters.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\special_characters\obj\Debug\net7.0\ref\special_characters.dll

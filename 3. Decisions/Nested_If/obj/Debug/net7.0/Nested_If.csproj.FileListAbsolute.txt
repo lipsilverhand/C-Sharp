@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\bin\Debug\net7.0\Nested_If.exe
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\bin\Debug\net7.0\Nested_If.deps.json
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\bin\Debug\net7.0\Nested_If.runtimeconfig.json
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\bin\Debug\net7.0\Nested_If.dll
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\bin\Debug\net7.0\Nested_If.pdb
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\obj\Debug\net7.0\Nested_If.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\obj\Debug\net7.0\Nested_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\obj\Debug\net7.0\Nested_If.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\obj\Debug\net7.0\Nested_If.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\obj\Debug\net7.0\Nested_If.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\obj\Debug\net7.0\Nested_If.dll
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\obj\Debug\net7.0\refint\Nested_If.dll
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\obj\Debug\net7.0\Nested_If.pdb
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\obj\Debug\net7.0\Nested_If.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\3. Decisions\Nested_If\obj\Debug\net7.0\ref\Nested_If.dll

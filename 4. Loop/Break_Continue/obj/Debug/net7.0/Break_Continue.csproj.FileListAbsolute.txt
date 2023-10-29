@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\bin\Debug\net7.0\Break_Continue.exe
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\bin\Debug\net7.0\Break_Continue.deps.json
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\bin\Debug\net7.0\Break_Continue.runtimeconfig.json
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\bin\Debug\net7.0\Break_Continue.dll
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\bin\Debug\net7.0\Break_Continue.pdb
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\obj\Debug\net7.0\Break_Continue.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\obj\Debug\net7.0\Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\obj\Debug\net7.0\Break_Continue.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\obj\Debug\net7.0\Break_Continue.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\obj\Debug\net7.0\Break_Continue.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\obj\Debug\net7.0\Break_Continue.dll
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\obj\Debug\net7.0\refint\Break_Continue.dll
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\obj\Debug\net7.0\Break_Continue.pdb
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\obj\Debug\net7.0\Break_Continue.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\4. Loop\Break_Continue\obj\Debug\net7.0\ref\Break_Continue.dll

@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\obj\Debug\net7.0\string_manipulation.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\obj\Debug\net7.0\string_manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\obj\Debug\net7.0\string_manipulation.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\obj\Debug\net7.0\string_manipulation.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\obj\Debug\net7.0\string_manipulation.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\bin\Debug\net7.0\string_manipulation.exe
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\bin\Debug\net7.0\string_manipulation.deps.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\bin\Debug\net7.0\string_manipulation.runtimeconfig.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\bin\Debug\net7.0\string_manipulation.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\bin\Debug\net7.0\string_manipulation.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\obj\Debug\net7.0\string_manipulation.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\obj\Debug\net7.0\refint\string_manipulation.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\obj\Debug\net7.0\string_manipulation.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\obj\Debug\net7.0\string_manipulation.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_manipulation\obj\Debug\net7.0\ref\string_manipulation.dll

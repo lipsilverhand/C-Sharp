@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\obj\Debug\net7.0\switch_statement.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\obj\Debug\net7.0\switch_statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\obj\Debug\net7.0\switch_statement.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\obj\Debug\net7.0\switch_statement.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\obj\Debug\net7.0\switch_statement.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\bin\Debug\net7.0\switch_statement.exe
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\bin\Debug\net7.0\switch_statement.deps.json
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\bin\Debug\net7.0\switch_statement.runtimeconfig.json
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\bin\Debug\net7.0\switch_statement.dll
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\bin\Debug\net7.0\switch_statement.pdb
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\obj\Debug\net7.0\switch_statement.dll
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\obj\Debug\net7.0\refint\switch_statement.dll
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\obj\Debug\net7.0\switch_statement.pdb
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\obj\Debug\net7.0\switch_statement.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\3. Decisions\switch_statement\obj\Debug\net7.0\ref\switch_statement.dll

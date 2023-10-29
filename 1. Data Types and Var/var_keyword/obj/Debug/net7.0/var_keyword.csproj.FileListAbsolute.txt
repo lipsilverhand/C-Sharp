@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\bin\Debug\net7.0\var_keyword.exe
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\bin\Debug\net7.0\var_keyword.deps.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\bin\Debug\net7.0\var_keyword.runtimeconfig.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\bin\Debug\net7.0\var_keyword.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\bin\Debug\net7.0\var_keyword.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\obj\Debug\net7.0\var_keyword.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\obj\Debug\net7.0\var_keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\obj\Debug\net7.0\var_keyword.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\obj\Debug\net7.0\var_keyword.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\obj\Debug\net7.0\var_keyword.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\obj\Debug\net7.0\var_keyword.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\obj\Debug\net7.0\refint\var_keyword.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\obj\Debug\net7.0\var_keyword.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\obj\Debug\net7.0\var_keyword.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\var_keyword\obj\Debug\net7.0\ref\var_keyword.dll

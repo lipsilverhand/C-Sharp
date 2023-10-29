@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\bin\Debug\net7.0\void_method.exe
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\bin\Debug\net7.0\void_method.deps.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\bin\Debug\net7.0\void_method.runtimeconfig.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\bin\Debug\net7.0\void_method.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\bin\Debug\net7.0\void_method.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\obj\Debug\net7.0\void_method.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\obj\Debug\net7.0\void_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\obj\Debug\net7.0\void_method.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\obj\Debug\net7.0\void_method.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\obj\Debug\net7.0\void_method.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\obj\Debug\net7.0\void_method.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\obj\Debug\net7.0\refint\void_method.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\obj\Debug\net7.0\void_method.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\obj\Debug\net7.0\void_method.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\void_method\obj\Debug\net7.0\ref\void_method.dll

@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\bin\Debug\net7.0\string_methods.exe
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\bin\Debug\net7.0\string_methods.deps.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\bin\Debug\net7.0\string_methods.runtimeconfig.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\bin\Debug\net7.0\string_methods.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\bin\Debug\net7.0\string_methods.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\obj\Debug\net7.0\string_methods.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\obj\Debug\net7.0\string_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\obj\Debug\net7.0\string_methods.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\obj\Debug\net7.0\string_methods.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\obj\Debug\net7.0\string_methods.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\obj\Debug\net7.0\string_methods.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\obj\Debug\net7.0\refint\string_methods.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\obj\Debug\net7.0\string_methods.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\obj\Debug\net7.0\string_methods.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\string_methods\obj\Debug\net7.0\ref\string_methods.dll

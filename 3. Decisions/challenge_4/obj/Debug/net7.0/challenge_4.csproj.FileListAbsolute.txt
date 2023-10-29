@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\obj\Debug\net7.0\challenge_4.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\obj\Debug\net7.0\challenge_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\obj\Debug\net7.0\challenge_4.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\obj\Debug\net7.0\challenge_4.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\obj\Debug\net7.0\challenge_4.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\bin\Debug\net7.0\challenge_4.exe
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\bin\Debug\net7.0\challenge_4.deps.json
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\bin\Debug\net7.0\challenge_4.runtimeconfig.json
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\bin\Debug\net7.0\challenge_4.dll
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\bin\Debug\net7.0\challenge_4.pdb
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\obj\Debug\net7.0\challenge_4.dll
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\obj\Debug\net7.0\refint\challenge_4.dll
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\obj\Debug\net7.0\challenge_4.pdb
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\obj\Debug\net7.0\challenge_4.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\3. Decisions\challenge_4\obj\Debug\net7.0\ref\challenge_4.dll

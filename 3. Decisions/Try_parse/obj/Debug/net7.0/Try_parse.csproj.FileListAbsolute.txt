@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\obj\Debug\net7.0\Try_parse.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\obj\Debug\net7.0\Try_parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\obj\Debug\net7.0\Try_parse.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\obj\Debug\net7.0\Try_parse.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\obj\Debug\net7.0\Try_parse.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\bin\Debug\net7.0\Try_parse.exe
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\bin\Debug\net7.0\Try_parse.deps.json
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\bin\Debug\net7.0\Try_parse.runtimeconfig.json
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\bin\Debug\net7.0\Try_parse.dll
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\bin\Debug\net7.0\Try_parse.pdb
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\obj\Debug\net7.0\Try_parse.dll
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\obj\Debug\net7.0\refint\Try_parse.dll
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\obj\Debug\net7.0\Try_parse.pdb
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\obj\Debug\net7.0\Try_parse.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\3. Decisions\Try_parse\obj\Debug\net7.0\ref\Try_parse.dll

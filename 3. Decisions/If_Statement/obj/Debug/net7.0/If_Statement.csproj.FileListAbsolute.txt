@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\bin\Debug\net7.0\If_Statement.exe
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\bin\Debug\net7.0\If_Statement.deps.json
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\bin\Debug\net7.0\If_Statement.runtimeconfig.json
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\bin\Debug\net7.0\If_Statement.dll
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\bin\Debug\net7.0\If_Statement.pdb
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\obj\Debug\net7.0\If_Statement.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\obj\Debug\net7.0\If_Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\obj\Debug\net7.0\If_Statement.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\obj\Debug\net7.0\If_Statement.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\obj\Debug\net7.0\If_Statement.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\obj\Debug\net7.0\If_Statement.dll
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\obj\Debug\net7.0\refint\If_Statement.dll
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\obj\Debug\net7.0\If_Statement.pdb
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\obj\Debug\net7.0\If_Statement.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\3. Decisions\If_Statement\obj\Debug\net7.0\ref\If_Statement.dll

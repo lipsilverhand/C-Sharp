@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\obj\Debug\net7.0\Data_types.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\obj\Debug\net7.0\Data_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\obj\Debug\net7.0\Data_types.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\obj\Debug\net7.0\Data_types.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\obj\Debug\net7.0\Data_types.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\bin\Debug\net7.0\Data_types.exe
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\bin\Debug\net7.0\Data_types.deps.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\bin\Debug\net7.0\Data_types.runtimeconfig.json
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\bin\Debug\net7.0\Data_types.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\bin\Debug\net7.0\Data_types.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\obj\Debug\net7.0\Data_types.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\obj\Debug\net7.0\refint\Data_types.dll
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\obj\Debug\net7.0\Data_types.pdb
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\obj\Debug\net7.0\Data_types.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\1. Data Types and Var\Data_types\obj\Debug\net7.0\ref\Data_types.dll

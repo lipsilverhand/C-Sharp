@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\bin\Debug\net7.0\Do_While_Loop.exe
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\bin\Debug\net7.0\Do_While_Loop.deps.json
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\bin\Debug\net7.0\Do_While_Loop.runtimeconfig.json
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\bin\Debug\net7.0\Do_While_Loop.dll
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\bin\Debug\net7.0\Do_While_Loop.pdb
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\obj\Debug\net7.0\Do_While_Loop.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\obj\Debug\net7.0\Do_While_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\obj\Debug\net7.0\Do_While_Loop.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\obj\Debug\net7.0\Do_While_Loop.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\obj\Debug\net7.0\Do_While_Loop.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\obj\Debug\net7.0\Do_While_Loop.dll
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\obj\Debug\net7.0\refint\Do_While_Loop.dll
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\obj\Debug\net7.0\Do_While_Loop.pdb
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\obj\Debug\net7.0\Do_While_Loop.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\4. Loop\Do_While_Loop\obj\Debug\net7.0\ref\Do_While_Loop.dll
