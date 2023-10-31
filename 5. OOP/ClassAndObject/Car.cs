@@ -12,6 +12,47 @@ namespace ClassAndObject
         private string _name;
         private int _hp;
         private string _color;
+
+        public int GetHp()
+        {
+            return _hp * _hp;
+        }
+
+        public string GetName()
+        {
+            return _name;
+        }
+
+        public void SetName(string name)
+        {
+            if (name == "")
+            {
+                _name = "Defaut Name";
+            } else
+            {
+                _name = name;
+            }
+
+        }
+
+        //Default Constructor
+        public Car()
+        {
+            _name = "name";
+            _hp = 4;
+            _color = "color";
+        }
+
+        public Car(string name, int hp = 0)
+        {
+            _name = name;
+            Console.WriteLine(name + " was created");
+            _hp = hp;
+            _color = "red";
+
+        }
+
+        // Constructor
         public Car(string name, int hp, string color) {
             _name = name;
             _hp = hp;
