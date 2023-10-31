@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\bin\Debug\net7.0\Challenge_1.exe
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\bin\Debug\net7.0\Challenge_1.deps.json
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\bin\Debug\net7.0\Challenge_1.runtimeconfig.json
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\bin\Debug\net7.0\Challenge_1.dll
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\bin\Debug\net7.0\Challenge_1.pdb
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\obj\Debug\net7.0\Challenge_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\obj\Debug\net7.0\Challenge_1.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\obj\Debug\net7.0\Challenge_1.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\obj\Debug\net7.0\Challenge_1.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\obj\Debug\net7.0\Challenge_1.dll
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\obj\Debug\net7.0\refint\Challenge_1.dll
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\obj\Debug\net7.0\Challenge_1.pdb
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\obj\Debug\net7.0\Challenge_1.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\5. OOP\Challenge_1\obj\Debug\net7.0\ref\Challenge_1.dll
