@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Challenge_1
+namespace Challenge_1 {
     internal class phone
     {
         private string _company;
