@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\5. OOP\Properties\obj\Debug\net7.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\5. OOP\Properties\obj\Debug\net7.0\Properties.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\5. OOP\Properties\obj\Debug\net7.0\Properties.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\5. OOP\Properties\obj\Debug\net7.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\5. OOP\Properties\bin\Debug\net7.0\Properties.exe
+C:\Users\willi\Desktop\C#\5. OOP\Properties\bin\Debug\net7.0\Properties.deps.json
+C:\Users\willi\Desktop\C#\5. OOP\Properties\bin\Debug\net7.0\Properties.runtimeconfig.json
+C:\Users\willi\Desktop\C#\5. OOP\Properties\bin\Debug\net7.0\Properties.dll
+C:\Users\willi\Desktop\C#\5. OOP\Properties\bin\Debug\net7.0\Properties.pdb
+C:\Users\willi\Desktop\C#\5. OOP\Properties\obj\Debug\net7.0\Properties.dll
+C:\Users\willi\Desktop\C#\5. OOP\Properties\obj\Debug\net7.0\refint\Properties.dll
+C:\Users\willi\Desktop\C#\5. OOP\Properties\obj\Debug\net7.0\Properties.pdb
+C:\Users\willi\Desktop\C#\5. OOP\Properties\obj\Debug\net7.0\Properties.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\5. OOP\Properties\obj\Debug\net7.0\ref\Properties.dll
