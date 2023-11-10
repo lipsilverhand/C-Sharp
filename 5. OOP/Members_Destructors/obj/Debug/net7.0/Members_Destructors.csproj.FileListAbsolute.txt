@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\bin\Debug\net7.0\Members_Destructors.exe
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\bin\Debug\net7.0\Members_Destructors.deps.json
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\bin\Debug\net7.0\Members_Destructors.runtimeconfig.json
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\bin\Debug\net7.0\Members_Destructors.dll
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\bin\Debug\net7.0\Members_Destructors.pdb
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\obj\Debug\net7.0\Members_Destructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\obj\Debug\net7.0\Members_Destructors.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\obj\Debug\net7.0\Members_Destructors.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\obj\Debug\net7.0\Members_Destructors.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\obj\Debug\net7.0\Members_Destructors.dll
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\obj\Debug\net7.0\refint\Members_Destructors.dll
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\obj\Debug\net7.0\Members_Destructors.pdb
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\obj\Debug\net7.0\Members_Destructors.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\5. OOP\Members_Destructors\obj\Debug\net7.0\ref\Members_Destructors.dll
