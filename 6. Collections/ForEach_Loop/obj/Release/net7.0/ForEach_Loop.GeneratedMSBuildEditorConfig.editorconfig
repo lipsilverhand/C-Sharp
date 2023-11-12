@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Arrays
-build_property.ProjectDir = C:\Users\willi\Desktop\C#\6. Collections\Arrays\
+build_property.RootNamespace = ForEach_Loop
+build_property.ProjectDir = C:\Users\willi\Desktop\C#\6. Collections\ForEach_Loop\
