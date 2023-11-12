@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\Collections\Arrays\bin\Debug\net7.0\Arrays.exe
+C:\Users\willi\Desktop\C#\Collections\Arrays\bin\Debug\net7.0\Arrays.deps.json
+C:\Users\willi\Desktop\C#\Collections\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+C:\Users\willi\Desktop\C#\Collections\Arrays\bin\Debug\net7.0\Arrays.dll
+C:\Users\willi\Desktop\C#\Collections\Arrays\bin\Debug\net7.0\Arrays.pdb
+C:\Users\willi\Desktop\C#\Collections\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\Collections\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\Collections\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\Collections\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\Collections\Arrays\obj\Debug\net7.0\Arrays.dll
+C:\Users\willi\Desktop\C#\Collections\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+C:\Users\willi\Desktop\C#\Collections\Arrays\obj\Debug\net7.0\Arrays.pdb
+C:\Users\willi\Desktop\C#\Collections\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\Collections\Arrays\obj\Debug\net7.0\ref\Arrays.dll
