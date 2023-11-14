@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\bin\Debug\net7.0\MultiDimension_Array.exe
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\bin\Debug\net7.0\MultiDimension_Array.deps.json
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\bin\Debug\net7.0\MultiDimension_Array.runtimeconfig.json
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\bin\Debug\net7.0\MultiDimension_Array.dll
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\bin\Debug\net7.0\MultiDimension_Array.pdb
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\obj\Debug\net7.0\MultiDimension_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\obj\Debug\net7.0\MultiDimension_Array.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\obj\Debug\net7.0\MultiDimension_Array.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\obj\Debug\net7.0\MultiDimension_Array.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\obj\Debug\net7.0\MultiDimension_Array.dll
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\obj\Debug\net7.0\refint\MultiDimension_Array.dll
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\obj\Debug\net7.0\MultiDimension_Array.pdb
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\obj\Debug\net7.0\MultiDimension_Array.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\6. Collections\MultiDimension_Array\obj\Debug\net7.0\ref\MultiDimension_Array.dll
