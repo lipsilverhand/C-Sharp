@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\bin\Debug\net7.0\challenge_3.exe
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\bin\Debug\net7.0\challenge_3.deps.json
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\bin\Debug\net7.0\challenge_3.runtimeconfig.json
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\bin\Debug\net7.0\challenge_3.dll
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\bin\Debug\net7.0\challenge_3.pdb
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\obj\Debug\net7.0\challenge_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\obj\Debug\net7.0\challenge_3.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\obj\Debug\net7.0\challenge_3.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\obj\Debug\net7.0\challenge_3.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\obj\Debug\net7.0\challenge_3.dll
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\obj\Debug\net7.0\refint\challenge_3.dll
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\obj\Debug\net7.0\challenge_3.pdb
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\obj\Debug\net7.0\challenge_3.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\6. Collections\challenge_3\obj\Debug\net7.0\ref\challenge_3.dll
