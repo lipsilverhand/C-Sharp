@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\bin\Debug\net7.0\Jagged_Arrays.exe
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\bin\Debug\net7.0\Jagged_Arrays.deps.json
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\bin\Debug\net7.0\Jagged_Arrays.runtimeconfig.json
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\bin\Debug\net7.0\Jagged_Arrays.dll
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\bin\Debug\net7.0\Jagged_Arrays.pdb
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\obj\Debug\net7.0\Jagged_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\obj\Debug\net7.0\Jagged_Arrays.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\obj\Debug\net7.0\Jagged_Arrays.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\obj\Debug\net7.0\Jagged_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\obj\Debug\net7.0\Jagged_Arrays.dll
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\obj\Debug\net7.0\refint\Jagged_Arrays.dll
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\obj\Debug\net7.0\Jagged_Arrays.pdb
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\obj\Debug\net7.0\Jagged_Arrays.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\6. Collections\Jagged_Arrays\obj\Debug\net7.0\ref\Jagged_Arrays.dll
