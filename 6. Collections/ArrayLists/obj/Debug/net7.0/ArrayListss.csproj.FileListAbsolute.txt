@@ -1,0 +1,4 @@
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\ArrayListss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\ArrayListss.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\ArrayListss.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\ArrayListss.csproj.CoreCompileInputs.cache

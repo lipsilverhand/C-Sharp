@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\ArrayListC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\ArrayListC.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\ArrayListC.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\ArrayListC.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\bin\Debug\net7.0\ArrayListC.exe
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\bin\Debug\net7.0\ArrayListC.deps.json
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\bin\Debug\net7.0\ArrayListC.runtimeconfig.json
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\bin\Debug\net7.0\ArrayListC.dll
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\bin\Debug\net7.0\ArrayListC.pdb
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\ArrayListC.dll
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\refint\ArrayListC.dll
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\ArrayListC.pdb
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\ArrayListC.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\6. Collections\ArrayLists\obj\Debug\net7.0\ref\ArrayListC.dll
