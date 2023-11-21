@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\bin\Debug\net7.0\Array_AsParameter.exe
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\bin\Debug\net7.0\Array_AsParameter.deps.json
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\bin\Debug\net7.0\Array_AsParameter.runtimeconfig.json
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\bin\Debug\net7.0\Array_AsParameter.dll
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\bin\Debug\net7.0\Array_AsParameter.pdb
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\obj\Debug\net7.0\Array_AsParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\obj\Debug\net7.0\Array_AsParameter.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\obj\Debug\net7.0\Array_AsParameter.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\obj\Debug\net7.0\Array_AsParameter.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\obj\Debug\net7.0\Array_AsParameter.dll
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\obj\Debug\net7.0\refint\Array_AsParameter.dll
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\obj\Debug\net7.0\Array_AsParameter.pdb
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\obj\Debug\net7.0\Array_AsParameter.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\6. Collections\Array_AsParameter\obj\Debug\net7.0\ref\Array_AsParameter.dll
