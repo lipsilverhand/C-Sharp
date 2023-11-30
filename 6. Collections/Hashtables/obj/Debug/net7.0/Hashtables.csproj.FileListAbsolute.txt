@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\bin\Debug\net7.0\Hashtables.exe
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\bin\Debug\net7.0\Hashtables.deps.json
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\bin\Debug\net7.0\Hashtables.runtimeconfig.json
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\bin\Debug\net7.0\Hashtables.dll
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\bin\Debug\net7.0\Hashtables.pdb
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\obj\Debug\net7.0\Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\obj\Debug\net7.0\Hashtables.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\obj\Debug\net7.0\Hashtables.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\obj\Debug\net7.0\Hashtables.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\obj\Debug\net7.0\Hashtables.dll
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\obj\Debug\net7.0\refint\Hashtables.dll
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\obj\Debug\net7.0\Hashtables.pdb
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\obj\Debug\net7.0\Hashtables.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\6. Collections\Hashtables\obj\Debug\net7.0\ref\Hashtables.dll
