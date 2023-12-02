@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\bin\Debug\net7.0\Dictionaries.exe
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\bin\Debug\net7.0\Dictionaries.deps.json
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\bin\Debug\net7.0\Dictionaries.runtimeconfig.json
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\bin\Debug\net7.0\Dictionaries.dll
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\bin\Debug\net7.0\Dictionaries.pdb
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\obj\Debug\net7.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\obj\Debug\net7.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\obj\Debug\net7.0\Dictionaries.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\obj\Debug\net7.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\obj\Debug\net7.0\Dictionaries.dll
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\obj\Debug\net7.0\refint\Dictionaries.dll
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\obj\Debug\net7.0\Dictionaries.pdb
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\obj\Debug\net7.0\Dictionaries.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\6. Collections\Dictionaries\obj\Debug\net7.0\ref\Dictionaries.dll
