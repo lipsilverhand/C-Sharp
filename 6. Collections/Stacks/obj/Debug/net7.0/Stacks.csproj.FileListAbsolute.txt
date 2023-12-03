@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\bin\Debug\net7.0\Stacks.exe
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\bin\Debug\net7.0\Stacks.deps.json
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\bin\Debug\net7.0\Stacks.runtimeconfig.json
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\bin\Debug\net7.0\Stacks.dll
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\bin\Debug\net7.0\Stacks.pdb
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\obj\Debug\net7.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\obj\Debug\net7.0\Stacks.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\obj\Debug\net7.0\Stacks.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\obj\Debug\net7.0\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\obj\Debug\net7.0\Stacks.dll
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\obj\Debug\net7.0\refint\Stacks.dll
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\obj\Debug\net7.0\Stacks.pdb
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\obj\Debug\net7.0\Stacks.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\6. Collections\Stacks\obj\Debug\net7.0\ref\Stacks.dll
