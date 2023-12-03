@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\C#\6. Collections\Queues\bin\Debug\net7.0\Queues.exe
+C:\Users\willi\Desktop\C#\6. Collections\Queues\bin\Debug\net7.0\Queues.deps.json
+C:\Users\willi\Desktop\C#\6. Collections\Queues\bin\Debug\net7.0\Queues.runtimeconfig.json
+C:\Users\willi\Desktop\C#\6. Collections\Queues\bin\Debug\net7.0\Queues.dll
+C:\Users\willi\Desktop\C#\6. Collections\Queues\bin\Debug\net7.0\Queues.pdb
+C:\Users\willi\Desktop\C#\6. Collections\Queues\obj\Debug\net7.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\6. Collections\Queues\obj\Debug\net7.0\Queues.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\Queues\obj\Debug\net7.0\Queues.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\6. Collections\Queues\obj\Debug\net7.0\Queues.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\6. Collections\Queues\obj\Debug\net7.0\Queues.dll
+C:\Users\willi\Desktop\C#\6. Collections\Queues\obj\Debug\net7.0\refint\Queues.dll
+C:\Users\willi\Desktop\C#\6. Collections\Queues\obj\Debug\net7.0\Queues.pdb
+C:\Users\willi\Desktop\C#\6. Collections\Queues\obj\Debug\net7.0\Queues.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\6. Collections\Queues\obj\Debug\net7.0\ref\Queues.dll
