@@ -6,34 +6,23 @@ using System.Threading.Tasks;
 
 namespace Simple_Inheritance
 {
-    internal class Radio
+    internal class Radio : ElectricalDevices
     {
-        public bool IsOn {  get; set; }
-        public string BRAND { get; set; }
-        public Radio(bool ison, string brand) 
+
+        public Radio(bool ison, string brand) : base(ison, brand)
         {
-            this.IsOn = ison;
-            this.BRAND = brand;
+
         }
 
-        public void SwitchOn()
-        {
-            IsOn = true;
-        }
-
-        public void SwitchOff()
-        {
-            IsOn &= false;
-        }
-
-        public void ListenRadio() 
+        public void ListenRadio()
         {
             if (IsOn)
             {
-                Console.WriteLine("Listening to the radio");
-            } else
+                Console.WriteLine("Listening to the radio.");
+            }
+            else
             {
-                Console.WriteLine("Radio is off!");
+                Console.WriteLine("Radio is off, you need to turn on first!");
             }
         }
     }

@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\bin\Debug\net8.0\Simple_Inheritance.exe
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\bin\Debug\net8.0\Simple_Inheritance.deps.json
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\bin\Debug\net8.0\Simple_Inheritance.runtimeconfig.json
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\bin\Debug\net8.0\Simple_Inheritance.dll
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\bin\Debug\net8.0\Simple_Inheritance.pdb
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\obj\Debug\net8.0\Simple_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\obj\Debug\net8.0\Simple_Inheritance.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\obj\Debug\net8.0\Simple_Inheritance.AssemblyInfo.cs
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\obj\Debug\net8.0\Simple_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\obj\Debug\net8.0\Simple_Inheritance.sourcelink.json
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\obj\Debug\net8.0\Simple_Inheritance.dll
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\obj\Debug\net8.0\refint\Simple_Inheritance.dll
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\obj\Debug\net8.0\Simple_Inheritance.pdb
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\obj\Debug\net8.0\Simple_Inheritance.genruntimeconfig.cache
+C:\Users\willi\Desktop\C#\8. OOP Inheritance\Simple_Inheritance\obj\Debug\net8.0\ref\Simple_Inheritance.dll
