@@ -12,11 +12,12 @@ namespace Virtual_Override
         public int Age { get; set; }
         public bool IsHungry { get; set; }
 
-        public Animal(string name, int age, bool ishungry) 
+        public Animal(string name, int age) 
         {
             this.Name = name;
             this.Age = age;
-            this.IsHungry = ishungry;
+
+            IsHungry = true;
         }
 
         public virtual void MakeSound ()
@@ -28,13 +29,18 @@ namespace Virtual_Override
         {
             if (IsHungry)
             {
-
+                Console.WriteLine($"{Name} is eating.");
             }
 
             else
             {
-
+                Console.WriteLine($"{Name} is already full, need more time!");
             }
+        }
+
+        public virtual void Play ()
+        {
+            Console.WriteLine($"{Name} is playing.");
         }
     }
 }
