@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\bin\Debug\Wpf1.exe.config
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\bin\Debug\Wpf1.exe
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\bin\Debug\Wpf1.pdb
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\obj\Debug\Wpf1.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\obj\Debug\MainWindow.g.cs
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\obj\Debug\App.g.cs
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\obj\Debug\Wpf1_MarkupCompile.cache
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\obj\Debug\Wpf1_MarkupCompile.lref
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\obj\Debug\MainWindow.baml
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\obj\Debug\Wpf1.g.resources
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\obj\Debug\Wpf1.Properties.Resources.resources
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\obj\Debug\Wpf1.csproj.GenerateResource.cache
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\obj\Debug\Wpf1.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\obj\Debug\Wpf1.exe
+C:\Users\willi\Desktop\C#\12. WPF\Wpf1\obj\Debug\Wpf1.pdb
