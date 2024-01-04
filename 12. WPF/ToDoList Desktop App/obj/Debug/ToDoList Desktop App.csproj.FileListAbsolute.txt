@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\bin\Debug\ToDoList Desktop App.exe.config
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\bin\Debug\ToDoList Desktop App.exe
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\bin\Debug\ToDoList Desktop App.pdb
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\obj\Debug\ToDoList Desktop App.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\obj\Debug\MainWindow.g.cs
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\obj\Debug\App.g.cs
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\obj\Debug\ToDoList Desktop App_MarkupCompile.cache
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\obj\Debug\ToDoList Desktop App_MarkupCompile.lref
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\obj\Debug\MainWindow.baml
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\obj\Debug\ToDoList Desktop App.g.resources
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\obj\Debug\ToDoList_Desktop_App.Properties.Resources.resources
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\obj\Debug\ToDoList Desktop App.csproj.GenerateResource.cache
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\obj\Debug\ToDoList Desktop App.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\obj\Debug\ToDoList Desktop App.exe
+C:\Users\willi\Desktop\C#\12. WPF\ToDoList Desktop App\obj\Debug\ToDoList Desktop App.pdb
