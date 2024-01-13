@@ -1,0 +1,17 @@
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\bin\Debug\LoginUser.exe.config
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\bin\Debug\LoginUser.exe
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\bin\Debug\LoginUser.pdb
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\LoginUser.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\LoginView.g.cs
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\MainWindow.g.cs
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\App.g.cs
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\LoginUser_MarkupCompile.cache
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\LoginUser_MarkupCompile.lref
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\LoginView.baml
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\MainWindow.baml
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\LoginUser.g.resources
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\LoginUser.Properties.Resources.resources
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\LoginUser.csproj.GenerateResource.cache
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\LoginUser.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\LoginUser.exe
+C:\Users\willi\Desktop\C#\12. WPF\LoginUser\obj\Debug\LoginUser.pdb
