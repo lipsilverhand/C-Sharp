@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\bin\Debug\ZooManager.exe.config
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\bin\Debug\ZooManager.exe
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\bin\Debug\ZooManager.pdb
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\obj\Debug\ZooManager.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\obj\Debug\App.g.cs
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\obj\Debug\ZooManager_MarkupCompile.cache
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\obj\Debug\ZooManager_MarkupCompile.lref
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\obj\Debug\MainWindow.baml
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\obj\Debug\ZooManager.g.resources
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\obj\Debug\ZooManager.Properties.Resources.resources
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\obj\Debug\ZooManager.csproj.GenerateResource.cache
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\obj\Debug\ZooManager.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\obj\Debug\ZooManager.exe
+C:\Users\willi\Desktop\C#\13. Database\ZooManager\obj\Debug\ZooManager.pdb
